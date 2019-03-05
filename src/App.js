@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import ProductTable from './components/ProductTable/index';
 import ProductCategorySelect from './components/ProductCategorySelect/index';
 
